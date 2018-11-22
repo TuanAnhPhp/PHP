@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.content{
+    margin: 20px auto;
+    width: 600px;
+    border: 1px solid #EBEBEB;
+    padding: 10px;
+    background: url("wp1895525.jpg") no-repeat;
+    min-height: 200px;
+}
+.content h1{
+    color: rebeccapurple;
+    text-align: center;
+}
+.content ul{
+    margin: 23px 0px 0px 100px;
+}
+li{
+    margin-top: 5px ;
+    list-style:decimal inside;
+    color: white;
+}
