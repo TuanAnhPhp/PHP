@@ -17,8 +17,73 @@
 .content ul{
     margin: 23px 0px 0px 100px;
 }
-li{
+.content ul li{
     margin-top: 5px ;
     list-style:decimal inside;
     color: white;
+}
+/*------------------------------------CONTENT2--------------------------------------*/
+
+
+.content2{
+    margin: 20px auto;
+    width: 1000px;
+    border: 1px solid #EBEBEB;
+    padding: 10px;
+}
+.content2 h1{
+    color: red;
+    text-align: center;
+}
+.content2 ul{
+    margin: 23px;
+}
+.content2 ul li{
+    display: inline-block;
+    list-style: none;
+    margin-left: 30px;
+}
+
+.content2 ul li a{
+    display: block;
+    width: 250px;
+    height: 230px;
+}
+
+.content2 .result{
+    margin-left: 320px;
+}
+
+/*--------------------------CONTENT3---------------------------------*/
+
+.content3{
+    margin: 20px auto;
+    width: 280px;
+    border: 1px solid #EBEBEB;
+    padding: 10px;
+}
+.content3 h1{
+    color: red;
+    text-align: center;
+}
+
+.content3 .image{
+    margin: 20px 0;
+    text-align: center;
+}
+
+.content3 .image image{
+    margin-top: 10px 0;
+}
+
+.content3 .image a{
+    display: inline-block;
+    background-color: #686F97;
+    padding: 3px 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.content3 .image a:hover{
+    color: red;
 }
